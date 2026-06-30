@@ -1,8 +1,7 @@
-Bitcoin Blockchain Viewer
+## Bitcoin Blockchain Viewer
 
 
-
-Were Vincent Ouma
+Author: Were Vincent Ouma
 
 Bitcoin Blockchain Viewer
 GUI OUTPUT
